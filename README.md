@@ -295,7 +295,7 @@ Check the **Actions** tab for a green checkmark. If the workflow fails, review t
 Submit the following to Canvas:
 
 1. **GitHub Repository URL** (your GitHub Classroom repository)
-2**Public IP address** of your EC2 instance in an `ip.txt` file
+2. **Public IP address** of your EC2 instance in an `ip.txt` file
 
 ---
 
